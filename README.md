@@ -6,15 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 3 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [implementation](#implementation) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### implementation
 
