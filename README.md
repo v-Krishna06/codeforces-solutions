@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 8 |
 
 ---
 
@@ -16,9 +16,10 @@
 - [binary search](#binary-search) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -55,6 +56,7 @@
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.cpp) |
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/499/B%20-%20Lecture/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 
 ### math
@@ -68,6 +70,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/499/B%20-%20Lecture/solution.cpp) |
 
 ---
 
