@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 8 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (2)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
-- [math](#math) (3)
-- [number theory](#number-theory) (2)
+- [math](#math) (4)
+- [number theory](#number-theory) (3)
 - [strings](#strings) (1)
 
 ---
@@ -45,6 +45,7 @@
 |---|---------|------------|----------|
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1521A | [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1521/A%20-%20Nastia%20and%20Nearly%20Good%20Numbers/solution.cpp) |
 
 ### greedy
 
@@ -69,6 +70,7 @@
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1521A | [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1521/A%20-%20Nastia%20and%20Nearly%20Good%20Numbers/solution.cpp) |
 
 ### number theory
 
@@ -76,6 +78,7 @@
 |---|---------|------------|----------|
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
+| 1521A | [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1521/A%20-%20Nastia%20and%20Nearly%20Good%20Numbers/solution.cpp) |
 
 ### strings
 
