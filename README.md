@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 10 |
+| 25 | 10 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (7)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (11)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (3)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
@@ -95,6 +95,7 @@
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1353C | [Board Moves](https://codeforces.com/contest/1353/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1353/C%20-%20Board%20Moves/solution.cpp) |
+| 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1521A | [Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1521/A%20-%20Nastia%20and%20Nearly%20Good%20Numbers/solution.cpp) |
