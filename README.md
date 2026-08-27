@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 12 |
+| 32 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (14)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (1)
@@ -88,6 +88,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.cpp) |
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
