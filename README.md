@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 12 |
+| 38 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (3)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (16)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (1)
@@ -96,6 +96,7 @@
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.cpp) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/499/B%20-%20Lecture/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
