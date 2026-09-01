@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 12 |
+| 49 | 13 |
 
 ---
 
@@ -17,6 +17,7 @@
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [dp](#dp) (4)
+- [games](#games) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (20)
 - [math](#math) (20)
@@ -76,6 +77,12 @@
 | 1182A | [Filling Shapes](https://codeforces.com/contest/1182/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1182/A%20-%20Filling%20Shapes/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 
 ### greedy
 
