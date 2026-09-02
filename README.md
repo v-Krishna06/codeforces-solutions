@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 13 |
+| 52 | 13 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [dp](#dp) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (20)
-- [math](#math) (21)
+- [implementation](#implementation) (21)
+- [math](#math) (22)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (3)
 - [strings](#strings) (5)
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
@@ -113,6 +114,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/499/B%20-%20Lecture/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
@@ -132,6 +134,7 @@
 |---|---------|------------|----------|
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
+| 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 688B | [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/688/B%20-%20Lovely%20Palindromes/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1182A | [Filling Shapes](https://codeforces.com/contest/1182/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1182/A%20-%20Filling%20Shapes/solution.cpp) |
