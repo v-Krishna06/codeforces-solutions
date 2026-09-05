@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 15 |
+| 59 | 15 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [constructive algorithms](#constructive-algorithms) (9)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (14)
-- [implementation](#implementation) (23)
+- [greedy](#greedy) (15)
+- [implementation](#implementation) (24)
 - [math](#math) (24)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (3)
@@ -113,6 +113,7 @@
 | 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
@@ -146,6 +147,7 @@
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
