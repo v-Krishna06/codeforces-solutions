@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 15 |
+| 58 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (9)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (23)
 - [math](#math) (24)
 - [number theory](#number-theory) (8)
@@ -110,6 +110,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
