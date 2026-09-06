@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 15 |
+| 60 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [constructive algorithms](#constructive-algorithms) (9)
 - [dp](#dp) (4)
 - [games](#games) (1)
-- [greedy](#greedy) (15)
-- [implementation](#implementation) (24)
+- [greedy](#greedy) (16)
+- [implementation](#implementation) (25)
 - [math](#math) (24)
 - [number theory](#number-theory) (8)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (1)
 
@@ -108,6 +108,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.cpp) |
@@ -130,6 +131,7 @@
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 139A | [Petr and Book](https://codeforces.com/contest/139/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/139/A%20-%20Petr%20and%20Book/solution.cpp) |
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
@@ -199,6 +201,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 
