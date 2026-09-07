@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 18 |
+| 65 | 18 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [greedy](#greedy) (18)
 - [implementation](#implementation) (26)
 - [math](#math) (25)
-- [number theory](#number-theory) (8)
+- [number theory](#number-theory) (9)
 - [sortings](#sortings) (4)
 - [strings](#strings) (7)
 - [trees](#trees) (1)
@@ -209,6 +209,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.cpp) |
 | 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
