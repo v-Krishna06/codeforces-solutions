@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 105 | 20 |
+| 106 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (17)
+- [Uncategorized](#uncategorized) (18)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (18)
@@ -62,6 +62,7 @@
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.cpp) |
 | 2271B | [MEX Game](https://codeforces.com/contest/2271/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2271/B%20-%20MEX%20Game/solution.cpp) |
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
+| 2276D | [Caveman](https://codeforces.com/contest/2276/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2276/D%20-%20Caveman/solution.cpp) |
 
 ### binary search
 
