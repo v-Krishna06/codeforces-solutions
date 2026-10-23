@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 115 | 21 |
+| 116 | 21 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (15)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (11)
 - [games](#games) (1)
@@ -30,7 +30,7 @@
 - [math](#math) (36)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (10)
-- [strings](#strings) (11)
+- [strings](#strings) (12)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (3)
 
@@ -97,6 +97,7 @@
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1703D | [Double Strings](https://codeforces.com/contest/1703/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1703/D%20-%20Double%20Strings/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
@@ -143,6 +144,7 @@
 | 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1703D | [Double Strings](https://codeforces.com/contest/1703/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1703/D%20-%20Double%20Strings/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 
 ### dfs and similar
@@ -352,6 +354,7 @@
 | 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1703D | [Double Strings](https://codeforces.com/contest/1703/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1703/D%20-%20Double%20Strings/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1971D | [Binary Cut](https://codeforces.com/contest/1971/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1971/D%20-%20Binary%20Cut/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
