@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 122 | 22 |
+| 123 | 22 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (20)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (2)
@@ -25,9 +25,9 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (36)
+- [greedy](#greedy) (37)
 - [implementation](#implementation) (40)
-- [math](#math) (40)
+- [math](#math) (41)
 - [number theory](#number-theory) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (11)
@@ -75,6 +75,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 
 ### bitmasks
@@ -234,6 +235,7 @@
 | 1971D | [Binary Cut](https://codeforces.com/contest/1971/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1971/D%20-%20Binary%20Cut/solution.cpp) |
 | 1985C | [Good Prefixes](https://codeforces.com/contest/1985/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1985/C%20-%20Good%20Prefixes/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
+| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 
@@ -324,6 +326,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2009C | [The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2009/C%20-%20The%20Legend%20of%20Freya%20the%20Frog/solution.cpp) |
+| 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 
