@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 128 | 22 |
+| 129 | 22 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (24)
+- [brute force](#brute-force) (25)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (8)
@@ -25,9 +25,9 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (40)
+- [greedy](#greedy) (41)
 - [implementation](#implementation) (40)
-- [math](#math) (44)
+- [math](#math) (45)
 - [number theory](#number-theory) (12)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
@@ -115,6 +115,7 @@
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
+| 2050B | [Transfusion](https://codeforces.com/contest/2050/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2050/B%20-%20Transfusion/solution.cpp) |
 
 ### combinatorics
 
@@ -244,6 +245,7 @@
 | 1985C | [Good Prefixes](https://codeforces.com/contest/1985/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1985/C%20-%20Good%20Prefixes/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
+| 2050B | [Transfusion](https://codeforces.com/contest/2050/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2050/B%20-%20Transfusion/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 | 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
@@ -339,6 +341,7 @@
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2009C | [The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2009/C%20-%20The%20Legend%20of%20Freya%20the%20Frog/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
+| 2050B | [Transfusion](https://codeforces.com/contest/2050/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2050/B%20-%20Transfusion/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 
