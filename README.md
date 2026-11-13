@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 134 | 24 |
+| 135 | 24 |
 
 ---
 
@@ -27,9 +27,9 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (45)
+- [greedy](#greedy) (46)
 - [implementation](#implementation) (41)
-- [math](#math) (46)
+- [math](#math) (47)
 - [number theory](#number-theory) (12)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (14)
@@ -231,6 +231,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
 | 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
@@ -326,6 +327,7 @@
 |---|---------|------------|----------|
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 268B | [Buttons](https://codeforces.com/contest/268/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/268/B%20-%20Buttons/solution.cpp) |
 | 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 630C | [Lucky Numbers](https://codeforces.com/contest/630/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/630/C%20-%20Lucky%20Numbers/solution.cpp) |
