@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 135 | 24 |
+| 136 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (26)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (17)
+- [constructive algorithms](#constructive-algorithms) (18)
 - [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (14)
@@ -27,7 +27,7 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (46)
+- [greedy](#greedy) (47)
 - [implementation](#implementation) (41)
 - [math](#math) (47)
 - [number theory](#number-theory) (12)
@@ -149,6 +149,7 @@
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1894B | [Two Out of Three](https://codeforces.com/contest/1894/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1894/B%20-%20Two%20Out%20of%20Three/solution.cpp) |
+| 1993B | [Parity and Sum](https://codeforces.com/contest/1993/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1993/B%20-%20Parity%20and%20Sum/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | Unrated | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 
@@ -267,6 +268,7 @@
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 1971D | [Binary Cut](https://codeforces.com/contest/1971/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1971/D%20-%20Binary%20Cut/solution.cpp) |
 | 1985C | [Good Prefixes](https://codeforces.com/contest/1985/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1985/C%20-%20Good%20Prefixes/solution.cpp) |
+| 1993B | [Parity and Sum](https://codeforces.com/contest/1993/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1993/B%20-%20Parity%20and%20Sum/solution.cpp) |
 | 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2004C | [Splitting Items](https://codeforces.com/contest/2004/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2004/C%20-%20Splitting%20Items/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/v-Krishna06/codeforces-solutions/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
